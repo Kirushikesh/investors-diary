@@ -5,7 +5,7 @@ description = "An LLM Agent based personal diary that manages the purchase and s
 authors = ["Kirushikesh DB"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "investors_diary"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -15,10 +15,12 @@ jupyter = "^1.1.1"
 python-dotenv = "^1.0.1"
 langchain = "^0.3.7"
 langchain-community = "^0.3.7"
-langchain-chroma = "^0.1.4"
 faiss-cpu = "^1.9.0"
-yfinance = "^0.2.50"
-duckduckgo-search = "^6.3.5"
+tavily-python = "^0.5.0"
+fastapi = "^0.115.5"
+uvicorn = "^0.32.1"
+langserve = {extras = ["all"], version = "^0.3.0"}
+streamlit = "^1.40.1"
 
 
 [tool.poetry.group.lint.dependencies]
