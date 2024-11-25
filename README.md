@@ -2,6 +2,14 @@
 
 An intelligent LLM Agent-based personal diary that manages stock purchases and sales using natural language interaction. The application leverages advanced language models to understand user intent, process requests, and maintain detailed records of stock transactions along with reasoning behind investment decisions.
 
+## TLDR
+
+
+https://github.com/user-attachments/assets/17e80e79-5b0b-4f3f-91d8-fd2b40611a29
+
+
+If you a great listener than reader and love to know about this repo within few minutes. Listen to this podcast explaining why this is great and add more reasons why you should star this repository. Note: The Podcast made by NotebookLM by google may be inaccurate and factually incorrect sometimes nonetheless enjoy the podcast.
+
 ## 🌟 Features
 
 ### Natural Language Interaction
